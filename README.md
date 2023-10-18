@@ -7,8 +7,10 @@ Este é um projeto de estudos, cujo objetivo é o treinamento em técnicas de ex
 
 O projeto está contextualizado para um e-commerce de eletrônicos e apresenta diversas tarefas que precisam ser respondidas.
 
-##  Arquivos do projeto
-![Web 1](https://www.kaggle.com/code/akankshadasm/sales-data-analysis)
+## Arquivos do Projeto
+
+[Sales Data Analysis on Kaggle](https://www.kaggle.com/code/akankshadasm/sales-data-analysis)
+
 
 # Tecnologias utilizadas
 ## VS code / Colaboratory
