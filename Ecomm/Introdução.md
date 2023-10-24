@@ -6,6 +6,13 @@ Este é um projeto de estudo, cujo objetivo é o treinamento em técnicas de exp
 
 O projeto está contextualizado para um e-commerce de eletrônicos e apresenta diversas tarefas que precisam ser respondidas.
 
+Contexto: Uma e-commerce, contratou um serviço de um data scientist para gerar insights sobre suas vendas. Neste processo passou algumas perguntas que a equipe de vendas julgou pertinentes e norteadoras.
+#Q1: Qual foi o melhor mês de vendas? Quanto foi arrecadado por mês?
+#Q2: Qual a cidade com o maior número de vendas ?
+#Q3: A que horas devemos exibir o anúncio para maximizar a probabilidade de o cliente comprar o produto?
+#Q4: Quais produtos são frequentemente vendidos juntos? Quantas unidades são vendidas ?
+#Q5: Qual produto vendeu mais? Por que você acha que vendeu mais?
+
 ## Arquivos do Projeto
 
 [Análise de Dados de Vendas no Kaggle](https://www.kaggle.com/code/akankshadasm/sales-data-analysis)
