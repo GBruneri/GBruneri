@@ -1,32 +1,25 @@
-# Análise de Dados e Visualização de Dados no E-Commerce
+# Bem-vindo ao meu repositório de estudos e projetos pessoais.
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GBruneri/Myrep/blob/main/LICENSE)
 
-# Sobre o Projeto
+# Sobre os Projetos
 
-Este é um projeto de estudo, cujo objetivo é o treinamento em técnicas de exploração de dados, análise e formas de visualização.
-
-O projeto está contextualizado para um e-commerce de eletrônicos e apresenta diversas tarefas que precisam ser respondidas.
+Os projetos serão baseados em estudos de casos, sempre que possível, reais. Os bancos de dados serão adquiridos em diversos sites e sempre indicados e localizados. O objetivo principal é desenvolver competências técnicas, realizar estudos ativos e também servir como portfólio pessoal.
 
 ## Arquivos do Projeto
+**Todos os projetos serão organizados em pastas, seguindo a seguinte estrutura:**
 
-[Análise de Dados de Vendas no Kaggle](https://www.kaggle.com/code/akankshadasm/sales-data-analysis)
+1) Introdução.md (Fornece informações sobre arquivos, programas, contextualização e todos os recursos necessários para compreensão do projeto.)
+2) Pasta dados (Diretório com os arquivos brutos.)
+3) Pasta datasets (Diretório que contém todos os dataframes necessários.)
+4) Pasta data_prep (Diretório que contém os procedimentos de tratamento de dados que foram realizados.)
+5) Pasta EDA (Diretório de análise exploratória.)
+6) Pasta modelos* (Diretório que contém modelos de machine learning e implementações)
+7) Pasta apresentação* (Diretório que contém uma breve apresentação dos resultados)
 
-# Tecnologias Utilizadas
-## VS Code / Colaboratory
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
-
-# Como Visualizar o Projeto
-O projeto está organizado em pastas distintas para facilitar a navegação. A pasta "Ecomm" contém todos os arquivos necessários. Caso encontre dificuldades com os dados, os mesmos se encontram no site do Kaggle, conforme fornecido anteriormente.
-
-**A produção e desenvolvimento dos notebooks encontram-se nas pastas "Data_Prep" e "EDA".**
-
-Para quem se interessar pela organização dos dados, a pasta "dados" apresenta os dados brutos fornecidos pela equipe de marketing, que são arquivos .csv dos meses de 2019. A pasta "Data_prep" contém os primeiros trabalhos nos dados via Jupyter Notebooks. A pasta "EDA" destina-se à análise exploratória dos dados. A pasta "Datasets" é onde são salvos os dataframes já tratados ou modificados. A pasta "Apresentação" é um compêndio simples com informações relevantes para uma reunião de apresentação.
+(*): Nem todos os projetos terão todas as etapas acima listadas.
 
 # Autor
 
 Guilherme Bruneri
 
-[Perfil no LinkedIn](www.linkedin.com/in/guilhermebruneri)
+[Perfil no LinkedIn](https://www.linkedin.com/in/guilhermebruneri)
