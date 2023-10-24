@@ -1,7 +1,6 @@
 # Análise de Dados e Visualização de Dados no E-Commerce
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GBruneri/Myrep/blob/main/LICENSE)
 
-# Sobre o Projeto
+## Sobre o Projeto
 
 Este é um projeto de estudo, cujo objetivo é o treinamento em técnicas de exploração de dados, análise e formas de visualização.
 
