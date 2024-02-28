@@ -8,13 +8,11 @@ Os projetos serão baseados em estudos de casos, sempre que possível, reais. Os
 ## Arquivos do Projeto
 **Todos os projetos serão organizados em pastas, seguindo a seguinte estrutura:**
 
-1) Introdução.md (Fornece informações sobre arquivos, programas, contextualização e todos os recursos necessários para compreensão do projeto.)
-2) Pasta dados (Diretório com os arquivos brutos.)
-3) Pasta datasets (Diretório que contém todos os dataframes necessários.)
-4) Pasta data_prep (Diretório que contém os procedimentos de tratamento de dados que foram realizados.)
-5) Pasta EDA (Diretório de análise exploratória.)
-6) Pasta modelos* (Diretório que contém modelos de machine learning e implementações)
-7) Pasta apresentação* (Diretório que contém uma breve apresentação dos resultados)
+Introdução.md: Fornece informações sobre arquivos, programas, contextualização e todos os recursos necessários para a compreensão do projeto.
+Pasta datasets: Diretório que contém todos os dataframes necessários.
+Pasta Notebooks: Contém os notebooks dos projetos e seus checkpoints.
+Pasta modelos: Diretório que contém modelos de machine learning e implementações.
+Pasta apresentação: Diretório que contém uma breve apresentação dos resultados.
 
 (*): Nem todos os projetos terão todas as etapas acima listadas.
 
