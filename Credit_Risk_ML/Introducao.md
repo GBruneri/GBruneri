@@ -2,15 +2,14 @@
 
 Bem-vindo ao projeto de Análise de Risco de Crédito! Neste projeto, foi explorado a detecção de fraudes em transações de crédito, um desafio comum enfrentado por instituições financeiras em todo o mundo. A fraude de risco de crédito ocorre quando indivíduos tentam obter crédito de forma desonesta, muitas vezes por meio de informações falsas ou enganosas.
 
-Este projeto teve como objetivo desenvolver modelos de aprendizado de máquina capazes de identificar e classificar potenciais casos de fraude de risco de crédito, ajudando assim as instituições financeiras a mitigar riscos e proteger seus ativos.
-
 ## Organização dos arquivos
 Todo material necessário se encontra na pasta "**datasets**". A Pasta "**notebooks**" engloba a preparação dos dados no arquivo prep1 e os procedimento de exploração e modelagem no arquivo **EDA+modelo**.
 
 Os arquivos originais podem ser encontrados em : [Conjunto de dados de análise de risco de crédito](https://www.kaggle.com/datasets/praveengovi/credit-risk-classification-dataset)
 
+## Objetivos
 
-Neste projeto, foram exploradas três abordagens distintas:
+Este projeto teve como objetivo desenvolver modelos de aprendizado de máquina capazes de identificar e classificar potenciais casos de fraude de risco de crédito e avaliar duas técnicas de balanceamento de classes alvo. A primeira técnica foi o undersampling, no qual foram removidas aleatoriamente instâncias da classe majoritária, e a segunda técnica foi o oversampling, que consiste em criar exemplos sintéticos baseados nas instâncias dos k-vizinhos mais próximos, aumentando assim a classe minoritária.
 
 ## Abordagens Utilizadas
 1. **Primeira Abordagem (Undersampling):**
@@ -36,5 +35,5 @@ Na análise das métricas de desempenho, destacou-se:
 
 ## Resultados e Conclusões
 
-Ambas as abordagens apresentaram resultados promissores na detecção de fraudes de risco de crédito. A segunda abordagem, utilizando oversampling, demonstrou uma melhoria marginal nas métricas de precisão e F1-score em comparação com a primeira abordagem de undersampling. Não foi encontrado indicios de Data Leakage e o modelo parece não estar sofrendo de grande sobreajuste( overfitting).
+Ambas as abordagens apresentaram resultados promissores na detecção de fraudes de risco de crédito. A comparação com a previsão com método simulado, ou seja, apenas um critério mostra que a aplicação do algoritimo realmente é necessária. A segunda abordagem, utilizando oversampling, demonstrou uma melhoria marginal nas métricas de precisão e F1-score em comparação com a primeira abordagem de undersampling, demonstrando quen neste cenário a técnica gera uma melhor performance com o ganho de amostragem. Não foi encontrado indicios de Data Leakage e o modelo parece não estar sofrendo de grande sobreajuste( overfitting).
 
