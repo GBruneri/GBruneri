@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Bruneri</h1>
 <h3 align="center">Um físico e cientista de dados apaixonado pelo universo natural e digital.</h3>
 
-- 🔭 Atualmente, estou trabalhando com Ciência de Dados e modelos de Machine Learning e **Modelos Preditivos**.
+- 🔭 Atualmente, estou trabalhando com Ciência de Dados, modelos de Machine Learning e **Modelos Preditivos**.
 
-- 🌱 Estou aprendendo **Python e Machine Learning** atualmente.
+- 🌱 Estou aprendendo **Python, Machine Learning, SQL e Big Data** atualmente.
 
-- 👯 Colaboro para o desenvolvimento de métodos científicos e pensamento analítico em **Desenvolvimento Científico**.
+- 👯 Colaboro para o desenvolvimento de métodos científicos, pensamento analítico e cultura de dados no campo do **desenvolvimento científico e corporativo**.
 
 - 💬Me pergunte sobre **Física, análise, estatística e python.**
 
@@ -41,26 +41,23 @@ You can click the Preview link to take a look at your changes.
 
 # Sobre os Projetos
 
-Os projetos serão baseados em estudos de casos, sempre que possível, reais. Os bancos de dados serão adquiridos em diversos sites e sempre indicados e localizados. O objetivo principal é desenvolver competências técnicas, realizar estudos ativos e também servir como portfólio pessoal.
+Os projetos serão baseados em estudos de casos reais, sempre que possível. Os bancos de dados serão adquiridos em diversos sites e sempre indicados e localizados. O objetivo principal é desenvolver competências técnicas, realizar estudos ativos e também servir como portfólio pessoal.
 
 ## Arquivos do Projeto
 **Todos os projetos serão organizados em pastas, seguindo a seguinte estrutura:**
 
+1) Introdução.md: Fornece informações sobre arquivos, programas, contextualização e todos os recursos necessários para a compreensão do projeto.
 
-1)Introdução.md: Fornece informações sobre arquivos, programas, contextualização e todos os recursos necessários para a compreensão do projeto.
+2) Pasta datasets: Diretório que contém todos os dataframes necessários.
 
-2)Pasta datasets: Diretório que contém todos os dataframes necessários.
+3) Pasta notebooks: Contém os notebooks dos projetos e seus checkpoints.
 
-3)Pasta notebooks: Contém os notebooks dos projetos e seus checkpoints.
+4) Pasta modelos: Diretório que contém modelos de machine learning e implementações.
 
-4)Pasta modelos: Diretório que contém modelos de machine learning e implementações.
+(*) Nem todos os projetos terão todas as etapas acima listadas.
 
-5)Pasta apresentação: Diretório que contém uma breve apresentação dos resultados.
+## Projetos de Análise de dados.
 
-(*): Nem todos os projetos terão todas as etapas acima listadas.
+## Projetos de Machine Learning / Ciência de dados.
 
-# Autor
-
-Guilherme Bruneri
-
-[Perfil no LinkedIn](https://www.linkedin.com/in/guilhermebruneri)
+## Projetos de Python e Outros.
