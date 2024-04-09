@@ -1,4 +1,12 @@
-# Machine Learning - Classificadores
+# Machine Learning - Classificadores: Prevendo o Churn de clientes.
+
+[Dados](https://github.com/GBruneri/Gbruneri/blob/main/Churn_Clientes/Datasets/Customer-Churn.csv)
+
+[Data-prep](https://github.com/GBruneri/Gbruneri/blob/main/Churn_Clientes/Notebooks/data_prep.ipynb)
+
+[EDA](https://github.com/GBruneri/Gbruneri/blob/main/Churn_Clientes/Notebooks/Churn_EDA.ipynb)
+
+[Modelo](https://github.com/GBruneri/Gbruneri/blob/main/Churn_Clientes/Modelo/Churn_Modelos.ipynb)
 
 ## Introdução:
 A previsão de churn, ou a taxa em que os clientes deixam de utilizar os serviços ou produtos de uma empresa, é um desafio crucial para muitas organizações em diversos setores. A capacidade de identificar os clientes propensos a abandonar uma empresa permite que as empresas tomem medidas proativas para retê-los, economizando recursos e preservando o crescimento dos negócios. Nesse contexto, o estudo e a prática de algoritmos de classificação são fundamentais. Esses algoritmos são ferramentas poderosas que permitem analisar dados históricos dos clientes, identificar padrões e criar modelos preditivos para antecipar o churn.
