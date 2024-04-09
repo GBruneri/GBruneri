@@ -1,11 +1,11 @@
 # Análise e Visualização de Dados no E-Commerce
 [Fonte](https://www.kaggle.com/code/akankshadasm/sales-data-analysis)
 
-[Dados](Ecommerce/Datasets)
+[Dados](https://github.com/GBruneri/Gbruneri/tree/main/Ecommerce/Datasets)
 
-[Data Prep](Ecommerce/Notebooks/Ecom_prep.ipynb)
+[Data Prep](https://github.com/GBruneri/Gbruneri/blob/main/Ecommerce/Notebooks/Ecom_prep.ipynb)
 
-[EDA](Ecommerce/Notebooks/Ecom_EDA.ipynb)
+[EDA](https://github.com/GBruneri/Gbruneri/blob/main/Ecommerce/Notebooks/Ecom_EDA.ipynb)
 
 ## Introdução
 
