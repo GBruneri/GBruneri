@@ -1,31 +1,37 @@
-# Análise de Dados e Visualização de Dados no E-Commerce
+# Análise e Visualização de Dados no E-Commerce
+[Fonte](https://www.kaggle.com/code/akankshadasm/sales-data-analysis)
 
-## Sobre o Projeto
+[Dados](Ecommerce/Datasets)
 
-Este é um projeto de estudo, cujo objetivo é o treinamento em técnicas de exploração de dados, análise e formas de visualização.
+[Data Prep](Ecommerce/Notebooks/Ecom_prep.ipynb)
 
-Contexto: Uma e-commerce, contratou um serviço de um data scientist para gerar insights sobre suas vendas. Neste processo, a equipe de vendas realizou  algumas perguntas pertinentes que devem ser respondidas.
+[EDA](Ecommerce/Notebooks/Ecom_EDA.ipynb)
 
-## Arquivos do Projeto
+## Introdução
 
-[Análise de Dados de Vendas no Kaggle](https://www.kaggle.com/code/akankshadasm/sales-data-analysis)
+Em um ambiente empresarial cada vez mais orientado por dados, as técnicas de exploração e análise de dados desempenham um papel fundamental na tomada de decisões estratégicas e no sucesso organizacional. No contexto de uma e-commerce, a compreensão detalhada das vendas é essencial para impulsionar o crescimento e a lucratividade do negócio.
 
-# Tecnologias Utilizadas
-## VS Code / Colaboratory
+A capacidade de explorar e analisar os dados de vendas permite à equipe identificar padrões de compra, entender as preferências dos clientes e antecipar tendências de mercado. Esses insights são vitais para direcionar estratégias de marketing mais eficazes, otimizar a gestão de estoques, melhorar a experiência do cliente e, em última análise, aumentar as receitas.
+
+Portanto, investir em técnicas de exploração e análise de dados não apenas fornece uma compreensão mais profunda do comportamento do consumidor e do desempenho do produto, mas também capacita as empresas a adaptarem-se rapidamente às mudanças do mercado e a permanecerem competitivas em um cenário empresarial em constante evolução.
+
+## Desenvolvimento:
+As etapas de desenvolvimento seguiram o seguinte roteiro:
+
+1) Coleta de Dados: Um extenso conjunto de dados com informações sobre os produtos e demais características.
+
+2) Pré-processamento de Dados: Limpeza e preparação dos dados, incluindo a codificação de variáveis categóricas e o tratamento de valores ausentes.
+
+3) Análise de Dados: Análise exploratória dos dados visando a distribuição das variáveis e identificação de padrões.
+
+## Tecnologias Utilizadas
 - Python
 - Pandas
 - Seaborn
 - Matplotlib
+- Numpy
+- Scikitlearn
+- Statsmodels
 
-# Como Visualizar o Projeto
-A pasta "Ecomm" contém todos os arquivos necessários. Caso encontre dificuldades com os dados, os mesmos se encontram no site do Kaggle, conforme fornecido anteriormente.
-
-**A produção e desenvolvimento dos notebooks, encontram-se nas pastas "Data_Prep" e "EDA".**
-
-Para quem se interessar pela organização dos dados, a pasta "dados" apresenta os dados brutos fornecidos pela equipe de marketing, que são arquivos .csv dos meses de 2019. A pasta "Data_prep" contém os primeiros trabalhos nos dados via Jupyter Notebooks. A pasta "EDA" destina-se à análise exploratória dos dados. A pasta "Datasets" é onde são salvos os dataframes já tratados ou modificados. A pasta "Apresentação" é um compêndio simples com informações relevantes para uma reunião de apresentação.
-
-# Autor
-
-Guilherme Bruneri
-
-[Perfil no LinkedIn](www.linkedin.com/in/guilhermebruneri)
+## Conclusão
+Em suma, a importância das técnicas de exploração e análise de dados na prática diária de um cientista de dados é indiscutível. Essas técnicas capacitam o profissional a extrair insights valiosos dos dados, orientando estratégias de negócios, impulsionando a inovação e gerando valor para as organizações.
