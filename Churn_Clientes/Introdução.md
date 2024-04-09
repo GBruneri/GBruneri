@@ -1,6 +1,6 @@
 # Machine Learning - Classificadores: Prevendo o Churn de clientes.
 
-[Dados](https://github.com/GBruneri/Gbruneri/blob/main/Churn_Clientes/Datasets/Customer-Churn.csv)
+[Dados](https://github.com/GBruneri/Gbruneri/tree/main/Churn_Clientes/Datasets)
 
 [Data-prep](https://github.com/GBruneri/Gbruneri/blob/main/Churn_Clientes/Notebooks/data_prep.ipynb)
 
