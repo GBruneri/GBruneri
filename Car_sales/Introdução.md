@@ -1,27 +1,35 @@
 # Análise de Dados e Regressão múltipla via Machine Learning
 
-## Sobre o Projeto
+[Fonte](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
 
-Este é um projeto de estudo, cujo objetivo é o treinamento em técnicas de exploração de dados, análise, regressão múltipla e um modelo de machine learning simples.
+[Dados](Car_sales/Datasets)
 
-Contexto: A empresa chinesa de automóveis Geely Auto deseja entrar no mercado dos Estados Unidos estabelecendo uma unidade de fabricação lá e produzindo carros localmente para competir com seus concorrentes dos EUA e da Europa.
+[Data Prep](Car_sales/Notebooks/Prep_carP.ipynb)
 
-Eles contrataram uma empresa de consultoria automotiva para entender os fatores que influenciam a precificação de carros. Especificamente, eles querem compreender os fatores que afetam a precificação de carros no mercado americano, já que esses podem ser muito diferentes do mercado chinês. A empresa deseja saber:
+[EDA](Car_sales/Notebooks/CarP_EDA.ipynb)
 
-Quais variáveis são significativas para prever o preço de um carro.
-Como essas variáveis descrevem o preço de um carro.
-Com base em várias pesquisas de mercado, a empresa de consultoria coletou um grande conjunto de dados de diferentes tipos de carros no mercado americano.
+[Modelo](Car_sales/Modelo/Modelo_CarP.ipynb)
+
+## Introdução
+A Geely Auto, uma empresa chinesa de automóveis, busca entrar no mercado dos Estados Unidos e compreender os fatores que influenciam a precificação de carros nesse mercado. Em parceria com uma empresa de consultoria automotiva, foi solicitada uma análise de mercado com um amplo conjunto de dados sobre carros americanos para identificar as variáveis significativas na previsão de preços e compreender como essas variáveis impactam o mercado local. Isso será usado pela administração para entender como exatamente os preços variam com as variáveis independentes. Eles podem, consequentemente, adaptar o design dos carros, a estratégia de negócios, etc. para atender a certos níveis de preço. Além disso, o modelo será uma boa maneira para a administração entender a dinâmica de precificação de um novo mercado.
 
 **Objetivo de Negócios**
+Este projeto visa explorar dados e aplicar técnicas de análise e regressão múltipla, culminando na construção de um modelo de machine learning. Nós devemos modelar o preço dos carros com as variáveis independentes disponíveis.
 
-Nós devemos modelar o preço dos carros com as variáveis independentes disponíveis. Isso será usado pela administração para entender como exatamente os preços variam com as variáveis independentes. Eles podem, consequentemente, adaptar o design dos carros, a estratégia de negócios, etc. para atender a certos níveis de preço. Além disso, o modelo será uma boa maneira para a administração entender a dinâmica de precificação de um novo mercado.
+## Desenvolvimento:
+As etapas de desenvolvimento seguiram o seguinte roteiro:
 
-## Arquivos do Projeto
+1) Coleta de Dados: Um extenso conjunto de dados com informações sobre os produtos, como tipo de marca, motores e demais características.
 
-[Análise de Dados de Vendas no Kaggle](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
+2) Análise de Dados: Análise exploratória dos dados visando a distribuição das variáveis e identificação de padrões.
 
-# Tecnologias Utilizadas
-## VS Code / Colaboratory
+3) Pré-processamento de Dados: Limpeza e preparação dos dados, incluindo a codificação de variáveis categóricas, divisão dos dados em treino e teste e o tratamento de valores ausentes.
+
+4) Modelagem: Treinamento de modelos de aprendizado de máquina.
+   
+5) Avaliação: Avaliação das métricas como precisão, recall, F1-score e a curva ROC.
+
+## Tecnologias Utilizadas
 - Python
 - Pandas
 - Seaborn
@@ -30,15 +38,5 @@ Nós devemos modelar o preço dos carros com as variáveis independentes dispon�
 - Scikitlearn
 - Statsmodels
 
-# Como Visualizar o Projeto
-A pasta "Car_sales" contém todos os arquivos necessários. Caso encontre dificuldades com os dados, os mesmos se encontram no site do Kaggle, conforme fornecido anteriormente.
-
-**A produção e desenvolvimento dos notebooks, encontram-se nas pastas "Data_Prep", "EDA" e "Modelo".**
-
-Para quem se interessar pela organização dos dados, a pasta "dados" apresenta os dados brutos fornecidos pela empresa. A pasta "Data_prep" contém os primeiros trabalhos nos dados via Jupyter Notebooks. A pasta "EDA" destina-se à análise exploratória dos dados. A pasta "Datasets" é onde são salvos os dataframes já tratados ou modificados. Por fim a pasta "Modelo" contém os modelos preditivos sobre o preço dos carros.
-
-# Autor
-
-Guilherme Bruneri
-
-[Perfil no LinkedIn](www.linkedin.com/in/guilhermebruneri)
+## Conclusão
+A elaboração deste estudo foi de grande importância, pois essa técnica de regressão múltipla é uma poderosa ferramenta para um cientista de dados e essencial para empresas que buscam identificar demandas de mercado e planejamento estratégico de seus recursos e gastos.
