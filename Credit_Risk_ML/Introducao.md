@@ -1,4 +1,9 @@
 # Projeto de Análise de Risco de Crédito
+[Dados](Credit_Risk_ML/Datasets)
+
+[Data Prep](Credit_Risk_ML/Notebooks/prep1.ipynb)
+
+[EDA+Modelo](Credit_Risk_ML/Notebooks/EDA+Modelo.ipynb)
 
 Bem-vindo ao projeto de Análise de Risco de Crédito! Neste projeto, foi explorado a detecção de fraudes em transações de crédito, um desafio comum enfrentado por instituições financeiras em todo o mundo. A fraude de risco de crédito ocorre quando indivíduos tentam obter crédito de forma desonesta, muitas vezes por meio de informações falsas ou enganosas.
 
