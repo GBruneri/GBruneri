@@ -2,11 +2,11 @@
 
 Os dados originais podem ser encontrados em: [Fonte dos Dados de Acidentes de Trânsito](painelderesultados.infosiga.sp.gov.br/bases/obitos_publico.csv)
 
-[Dados](/Datasets)
+[Dados](https://github.com/GBruneri/Gbruneri/tree/main/Acidentes/Datasets)
 
-[Mapas](/Mapas)
+[Mapas](https://github.com/GBruneri/Gbruneri/tree/main/Acidentes/Mapas)
 
-[Notebook](/Notebook/Projeto_ACIDENTES.ipynb)
+[Notebook](https://github.com/GBruneri/Gbruneri/blob/main/Acidentes/Notebook/Projeto_ACIDENTES.ipynb)
 
 Bem-vindo ao projeto de Análise de Óbitos em Acidentes de Trânsito em São Paulo! Este projeto tem como objetivo explorar os dados de óbitos decorrentes de acidentes de trânsito no estado de São Paulo, no período de 2015 a 2023.
 
