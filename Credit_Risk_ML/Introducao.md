@@ -1,7 +1,7 @@
 # Projeto de Análise de Risco de Crédito
-[Dados](Credit_Risk_ML/Datasets)
+[Dados](https://github.com/GBruneri/Gbruneri/tree/main/Credit_Risk_ML/Datasets)
 
-[Data Prep](Credit_Risk_ML/Notebooks/prep1.ipynb)
+[Data Prep](https://github.com/GBruneri/Gbruneri/blob/main/Credit_Risk_ML/Notebooks/prep1.ipynb)
 
 [EDA+Modelo](https://github.com/GBruneri/Gbruneri/blob/main/Credit_Risk_ML/Notebooks/EDA+Modelo.ipynb)
 
