@@ -2,13 +2,13 @@
 
 [Fonte](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction)
 
-[Dados](Car_sales/Datasets)
+[Dados](https://github.com/GBruneri/Gbruneri/tree/main/Car_sales/Datasets)
 
-[Data Prep](Car_sales/Notebooks/Prep_carP.ipynb)
+[Data Prep](https://github.com/GBruneri/Gbruneri/blob/main/Car_sales/Notebooks/Prep_carP.ipynb)
 
-[EDA](Car_sales/Notebooks/CarP_EDA.ipynb)
+[EDA](https://github.com/GBruneri/Gbruneri/blob/main/Car_sales/Notebooks/CarP_EDA.ipynb)
 
-[Modelo](Car_sales/Modelo/Modelo_CarP.ipynb)
+[Modelo](https://github.com/GBruneri/Gbruneri/blob/main/Car_sales/Modelo/Modelo_CarP.ipynb)
 
 ## Introdução
 A Geely Auto, uma empresa chinesa de automóveis, busca entrar no mercado dos Estados Unidos e compreender os fatores que influenciam a precificação de carros nesse mercado. Em parceria com uma empresa de consultoria automotiva, foi solicitada uma análise de mercado com um amplo conjunto de dados sobre carros americanos para identificar as variáveis significativas na previsão de preços e compreender como essas variáveis impactam o mercado local. Isso será usado pela administração para entender como exatamente os preços variam com as variáveis independentes. Eles podem, consequentemente, adaptar o design dos carros, a estratégia de negócios, etc. para atender a certos níveis de preço. Além disso, o modelo será uma boa maneira para a administração entender a dinâmica de precificação de um novo mercado.
