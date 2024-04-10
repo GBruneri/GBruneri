@@ -10,6 +10,4 @@ Bem-vindo ao projeto de Análise de Temperaturas ao Longo do tempo. Este projeto
 O objetivo deste projeto é treinar técnicas de visualização de dados por meio de gráficos.
 
 ## Resultados e Conclusões
-A prática destas técnicas é crucial na formação de um cientista de dados, pois proporciona experiência na manipulação e análise de grandes conjuntos de dados, 
-aplicação de técnicas estatísticas e utilização de ferramentas de visualização. O conhecimento adquirido durante esta análise será fundamental para minha jornada profissional na área de Ciência de Dados, 
-capacitando-me para enfrentar desafios complexos e contribuir para soluções inovadoras em diversas áreas de atuação.
+A implementação das técnicas de visualização demonstrou com efetividade os padrões de oscilação da temperatura ao longo dos anos. No período avaliado foi possível identificar o máximo no ano de 2017 e o mínimo em 2014.Foi identificado também que no período considerado o dia da semana mais quente em média foi Sexta-feira.
