@@ -40,5 +40,4 @@ Na análise das métricas de desempenho, destacou-se:
 
 ## Resultados e Conclusões
 
-Ambas as abordagens apresentaram resultados promissores na detecção de fraudes de risco de crédito. A comparação com a previsão com método simulado, ou seja, apenas um critério mostra que a aplicação do algoritimo realmente é necessária. A segunda abordagem, utilizando oversampling, demonstrou uma melhoria marginal nas métricas de precisão e F1-score em comparação com a primeira abordagem de undersampling, demonstrando quen neste cenário a técnica gera uma melhor performance com o ganho de amostragem. Não foi encontrado indicios de Data Leakage e o modelo parece não estar sofrendo de grande sobreajuste( overfitting).
-
+Ambas as abordagens apresentaram resultados promissores na detecção de fraudes de risco de crédito. A comparação entre os métodos demonstra que a primeira abordagem, utilizando undersampling, demonstrou uma melhoria marginal nas métricas de precisão e F1-score em comparação com a segunda abordagem de overersampling, demonstrando que neste cenário a técnica gera uma melhor performance com o ganho de amostragem. Não foi encontrado indicios de Data Leakage e o modelo parece não estar sofrendo de grande sobreajuste( overfitting).
