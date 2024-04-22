@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Bruneri</h1>
-<h3 align="center">Um físico e cientista de dados apaixonado pelo universo natural e digital.</h3>
+<h3 align="center">Um físico e cientista de dados apaixonado pelo universo.</h3>
 
-- 🔭 Atualmente, estou trabalhando com Ciência de Dados, modelos de Machine Learning e **Modelos Preditivos**.
+- 🔭 Atualmente, estou trabalhando com Ciência de Dados, modelos de Machine Learning e **Modelagem estatísticas**.
 
-- 🌱 Estou aprendendo **Python, Machine Learning, SQL e Big Data** atualmente.
+- 🌱 Estou sempre aprendendo sobre **Python, Machine Learning, SQL, Big Data e matemática**.
 
-- 👯 Colaboro para o desenvolvimento de métodos científicos, pensamento analítico e cultura de dados no campo do **desenvolvimento científico e corporativo**.
+- 👀 Colaboro para o desenvolvimento de métodos científicos, pensamento analítico e cultura de dados no campo do **desenvolvimento científico e corporativo**.
 
 - 💬Me pergunte sobre **Física, análise, estatística e python.**
 
