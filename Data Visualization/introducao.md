@@ -2,7 +2,7 @@
 
 [Dados](https://github.com/GBruneri/Gbruneri/tree/main/Data%20Visualization/dados)
 
-[Notebook](https://github.com/GBruneri/Gbruneri/blob/main/Data%20Visualization/Notebooks/Data_Visu_02.ipynb)
+[Notebook](https://github.com/GBruneri/Gbruneri/blob/main/Data%20Visualization/Notebook/Data_Visu_02.ipynb)
 
 Bem-vindo ao projeto de Análise de Temperaturas ao Longo do tempo. Este projeto é uma adaptação de um estudo realizado tem como objetivo explorar os dados de temperatura coletados ao longo de um período específico, utilizando técnicas de visualização de gráficos, portanto, não foi utilizado nenhum rigor ou preocupação com veracidade.
 
