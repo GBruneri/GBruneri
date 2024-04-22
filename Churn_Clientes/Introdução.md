@@ -37,5 +37,5 @@ As etapas de desenvolvimento seguiram o seguinte roteiro:
 - Statsmodels
 
 ## Conclusão
-A elaboração deste estudo foi de grande importância, pois essa técnica de classificação é uma poderosa ferramenta para um cientista de dados e essencial para empresas que buscam um crescimento sustentável e retenção em sua base de clientes.
+Durante a modelagem, foram considerados três algoritmos distintos: o KNN, o Bernoulli Naive Bayes e a árvore de decisão, dos quais o KNN obteve a melhor performance ROC, com 87%. Durante o teste com 2 vetores de características aleatórios, o algoritmo foi capaz de classificar corretamente novas entradas.
 
