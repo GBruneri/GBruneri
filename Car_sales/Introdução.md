@@ -39,4 +39,5 @@ As etapas de desenvolvimento seguiram o seguinte roteiro:
 - Statsmodels
 
 ## Conclusão
-A elaboração deste estudo foi de grande importância, pois essa técnica de regressão múltipla é uma poderosa ferramenta para um cientista de dados e essencial para empresas que buscam identificar demandas de mercado e planejamento estratégico de seus recursos e gastos.
+A implementação da regressão múltipla gerou um modelo aceitável, para uma abordagem completamente experimental e sem ajuste de hiperparâmetros. Este modelo foi uma abordagem exploratória e portanto pode ser otimizado com técnicas mais robustas.
+
