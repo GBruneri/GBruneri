@@ -34,4 +34,4 @@ As etapas de desenvolvimento seguiram o seguinte roteiro:
 - Statsmodels
 
 ## Conclusão
-Em suma, a importância das técnicas de exploração e análise de dados na prática diária de um cientista de dados é indiscutível. Essas técnicas capacitam o profissional a extrair insights valiosos dos dados, orientando estratégias de negócios, impulsionando a inovação e gerando valor para as organizações.
+A análise dos dados mostra que o mês de melhor venda é dezembro, período de alta no mercado em grande parte dos comércios. A maioria dos clientes está localizada em São Francisco, com os picos de compra ocorrendo ao meio-dia e às 19h, sendo, portanto, o melhor horário para propagandas e ações de marketing direcionado. O produto mais vendido são pilhas e o conjunto de vendas mais visado é o iPhone em conjunto com cabo USB-C, com um total de 15,46% de probabilidade de venda.
