@@ -68,3 +68,4 @@ Os projetos serão baseados em estudos de casos reais, sempre que possível. Os 
 
 ## Projetos de Python e Outros.
 1) [Desafio C6Bank](https://github.com/GBruneri/Gbruneri/blob/main/CaseC6.ipynb)
+2) [Desafio Automação](https://github.com/GBruneri/Gbruneri/blob/main/Desafio_Automa%C3%A7%C3%A3o.ipynb)
