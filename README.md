@@ -64,7 +64,8 @@ Os projetos serão baseados em estudos de casos reais, sempre que possível. Os 
 ## Projetos de Machine Learning / Ciência de dados.
 1) [Risco de Crédito 1ºcaso -- Classificador (Random Forest e Outros)](Credit_Risk_ML/Introducao.md)
 2) [Churn de clientes -- Classificador](Churn_Clientes/Introdução.md)
-3) [Predição de valores para carros -- Regressão Múltipla](Car_sales/Introdução.md) 
+3) [Predição de valores para carros -- Regressão Múltipla](Car_sales/Introdução.md)
+4) [Análise dos dados do Airbnb em Atenas -- Clusterização](Airbnb_Athenas/Introducao.md)
 
 ## Projetos de Python e Outros.
 1) [Desafio C6Bank](https://github.com/GBruneri/Gbruneri/blob/main/CaseC6.ipynb)
