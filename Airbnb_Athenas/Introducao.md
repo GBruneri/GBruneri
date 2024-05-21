@@ -8,6 +8,8 @@ Os dados originais podem ser encontrados em: [Fonte dos Dados Inside Airbnb](htt
 
 [Notebook](https://github.com/GBruneri/Gbruneri/blob/main/Airbnb_Athenas/Notebook/Projeto_Airbnb_Gr%C3%A9cia.ipynb)
 
+[Mapa Final com Cluster](https://gbruneri.github.io/Gbruneri/map_athens.html)
+
 ## Objetivos
 Este projeto tem como objetivo realizar uma exploração de dados simples e a construção de um modelo de clusterização com as hospedagens na cidade de Atenas, Grécia, no período de 2015 a 2023.
 
